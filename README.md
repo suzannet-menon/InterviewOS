@@ -222,7 +222,7 @@ InterviewOS was built during the hackathon by extending a pre-existing Flask int
 ## Documentation
 
 - [Architecture](ARCHITECTURE.md)
-- [AI Usage Log](PROMPTS-Suzanne.md)
+- [AI Usage Log](PROMPTS.md)
 - [Technical Specification](technical-spec.md)
 
 ## Contributors
